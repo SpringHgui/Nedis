@@ -1,2 +1,2 @@
 # Nedis
-redis client for .net 
+lightweight high performance redis client for .net
